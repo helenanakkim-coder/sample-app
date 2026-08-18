@@ -23,4 +23,4 @@ steps:
     - 'CLOUDSDK_COMPUTE_REGION=europe-west4-b'
     - 'CLOUDSDK_CONTAINER_CLUSTER=hello-cluster'
 options:
- logging: CLOUD_LOGGING_ONLY
+ logging: CLOUD_LOGGING_ONLY# rollback trigger v1.0
